@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">⚡ Pawan Manghnani ⚡</h1>
 
-<!--
-**TechnoAceX/TechnoAceX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Initializing...;Loading+Systems...;AI+Developer;Building+Sifra;No+Distractions+Only+Execution">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ SYSTEM STATUS
+
+- 🧠 Building: Sifra (AI Medical System)
+- 🚀 Focus: AI / ML / LLMs
+- 🎯 Goal: Real-world impactful systems
+
+---
+
+## 🎮 ACTIVE PROJECT
+
+### Pixel Crush
+> Interactive chaotic web experience
+
+🔗 Live: (add later)  
+💻 Code: (add later)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
+</p>
