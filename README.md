@@ -46,7 +46,12 @@
 
 ---
 
-# 🧠 STEP 5 — ADD LIVE ACTIVITY GRAPH (ANIMATED FEEL)
+## 🎮 ACTIVE PROJECT
+
+
++ Pixel Crush
+- Status: In Development
+! Type: Interactive Experience
 
 Add below tech stack:
 
