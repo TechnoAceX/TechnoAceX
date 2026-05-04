@@ -95,7 +95,28 @@
 > MODE: DISCIPLINE
 
 
----
+---\\\
+
+
+## ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,mysql,tensorflow,firebase,git,github,flask,django" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">━━━ ⚡ ━━━</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
+</p>
+
+
 
 # 💣 FINAL RESULT
 
