@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=BOOTING+SYSTEM...;AI+DEVELOPER;BUILDING+SIFRA;EXECUTE();NO+DISTRACTIONS" />
 </p>
 
-<h1 align="center">
-  ⚡ Pawan Manghnani ⚡
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;AI+DEVELOPER;BUILDING+SIFRA;NO+DISTRACTIONS;ONLY+EXECUTION">
-</p>
-
 ---
 ## ⚡ SYSTEM STATUS
 
