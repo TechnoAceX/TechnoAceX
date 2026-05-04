@@ -27,3 +27,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/TechnoAceX/TechnoAceX/blob/output/snake.gif" />
+</p>
