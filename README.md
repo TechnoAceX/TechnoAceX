@@ -16,7 +16,9 @@
 - **Focus:** AI / ML / LLMs  
 - **Status:** Available for collaboration  
 
----
+
+<p align="center">━━━ ⚡ ━━━</p>
+
 
 - **Discord:** techno_acex  
 - **Activity:** Active  
