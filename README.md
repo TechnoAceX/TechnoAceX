@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=⚡ Pawan%20 ⚡Manghnani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Pawan%20Manghnani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
