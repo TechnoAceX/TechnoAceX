@@ -10,12 +10,19 @@
 
 ## ⚡ SYSTEM INTRO
 
+## ⚡ SYSTEM INTRO
 
-> USER       : @TechnoAceX
-> ROLE       : AI Developer
-> BUILDING   : Sifra (AI Medical System)
-> FOCUS      : AI / ML / LLMs
-> STATUS     : AVAILABLE FOR COLLAB
+- 👤 **User:** @TechnoAceX  
+- 💼 **Role:** AI Developer  
+- 🧠 **Building:** Sifra (AI Medical System)  
+- 🎯 **Focus:** AI / ML / LLMs  
+- 🚀 **Status:** Available for collaboration  
+
+---
+
+- 💬 **Discord:** techno_acex  
+- ⚡ **Activity:** Active  
+- 🚀 **Response:** Fast  
 
 
 
