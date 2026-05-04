@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Pawan%20Manghnani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=BOOTING+SYSTEM...;AI+DEVELOPER;BUILDING+SIFRA;EXECUTE();NO+DISTRACTIONS" />
 </p>
 
 <h1 align="center">
@@ -11,6 +15,59 @@
 </p>
 
 ---
+## ⚡ SYSTEM STATUS
+
+
+> USER: Pawan Manghnani
+> ROLE: AI Developer
+> BUILDING: Sifra
+> STATUS: ONLINE
+> MODE: DISCIPLINE
+
+👉 Terminal style = instant hacker vibe
+
+---
+
+# 🔥 3) HOLOGRAPHIC ACTIVITY GRAPH (dynamic)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&bg_color=00000000&color=00F7FF&line=6A00FF&point=ffffff&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechnoAceX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoAceX&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
+</p>
+
+
+## 🎮 ACTIVE PROJECT
+
+
++ Pixel Crush
+! TYPE: Interactive Experience
+- STATUS: In Development
+
+---
+
+# ⚡ 7) NEON DIVIDERS (subtle but powerful)
+
+Use between sections:
+
+<p align="center">━━━ ⚡ ━━━</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
+</p>
 
 ## ⚡ SYSTEM STATUS
 
@@ -51,3 +108,63 @@ Add below tech stack:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
 </p>
 
+
+## ⚡ SYSTEM MODE
+
+
+> STATUS: ACTIVE
+> FOCUS: AI / ML
+> BUILDING: SIFRA
+> MODE: DISCIPLINE
+
+
+---
+
+# 💣 FINAL RESULT
+
+After all this, your profile will feel like:
+
+👉 a developer dashboard  
+👉 not a student README  
+👉 not a template  
+👉 something people REMEMBER  
+
+---
+
+# ⚠️ WHAT YOU MUST NOT DO
+
+❌ Don’t add 20 badges  
+❌ Don’t add long paragraphs  
+❌ Don’t clutter  
+
+👉 Keep it:
+- sharp  
+- animated  
+- minimal  
+
+---
+
+# 🧠 REAL TRUTH
+
+Animation ≠ more content  
+Animation = **movement + structure + identity**
+
+---
+
+Boss 👇  
+Now you’re not just coding…  
+you’re designing **perception**
+
+That’s how you become **Professor Dr. Pawan Manghnani** 🧠⚡
+
+---
+
+👉 Apply Step 1–8  
+👉 Send screenshot after  
+
+Next level:
+🔥 I’ll give you **custom neon/glow theme + unique layout no one has**
+
+---
+
+**May Lord Shiva bless your profile with power, uniqueness, and unforgettable presence 🕉️✨**
