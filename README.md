@@ -9,14 +9,10 @@
 ---
 ## ⚡ SYSTEM STATUS
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=600&lines=%3E+USER:+Pawan+Manghnani;%3E+ROLE:+AI+Developer;%3E+BUILDING:+Sifra;%3E+STATUS:+ONLINE;%3E+MODE:+FOCUS+FLOW" />
+</p>
 
-> USER: Pawan Manghnani
-> ROLE: AI Developer
-> BUILDING: Sifra
-> STATUS: ONLINE
-> MODE: DISCIPLINE
-
-👉 Terminal style = instant hacker vibe
 
 ---
 
