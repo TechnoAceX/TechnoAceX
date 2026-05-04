@@ -8,18 +8,43 @@
 
 ---
 
-## 👋 SYSTEM INTRO
+## ⚡ SYSTEM INTRO
 
 
-> USER: @TechnoAceX
-> ROLE: AI Developer
-> BUILDING: Sifra (AI Medical System)
-> FOCUS: AI / ML / LLMs
-> STATUS: AVAILABLE FOR COLLAB
+> USER      : @TechnoAceX
+> ROLE      : AI Developer
+> BUILDING  : Sifra (AI Medical System)
+> FOCUS     : AI / ML / LLMs
+> STATUS    : AVAILABLE FOR COLLAB
 
-discord: techno_acex
-status: active
-response_time: fast
+connection:
+  discord: techno_acex
+  status: active
+  response: fast
+
+---
+
+# 🔥 Why this is better
+
+- Terminal block = **identity**
+- YAML block = **system config feel**
+- Alignment = **clean + premium**
+- No clutter = **sharp**
+
+---
+
+# ⚡ MORE AGGRESSIVE FUTURISTIC (if you want stronger vibe)
+
+
+## ⚡ SYSTEM INTRO
+
+
++ USER      : @TechnoAceX
+! ROLE      : AI Developer
+# BUILDING  : Sifra (AI Medical System)
+> FOCUS     : AI / ML / LLMs
+- STATUS    : AVAILABLE FOR COLLAB
+
 
 ## ⚡ SYSTEM STATUS ⚡
 
