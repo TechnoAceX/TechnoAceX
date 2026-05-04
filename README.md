@@ -1,7 +1,9 @@
-<h1 align="center">⚡ Pawan Manghnani ⚡</h1>
+<h1 align="center">
+  ⚡ Pawan Manghnani ⚡
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Initializing...;Loading+Systems...;AI+Developer;Building+Sifra;No+Distractions+Only+Execution">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;AI+DEVELOPER;BUILDING+SIFRA;NO+DISTRACTIONS;ONLY+EXECUTION">
 </p>
 
 ---
