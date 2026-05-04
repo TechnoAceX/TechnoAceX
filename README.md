@@ -25,51 +25,23 @@
 - **Response:** Fast  
 
 
-
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&bg_color=00000000&color=00F7FF&line=6A00FF&point=ffffff&hide_border=true" />
 </p>
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
 </p>
 
-
-## 🎮 ACTIVE PROJECT
-
-
-+ Pixel Crush
-! TYPE: Interactive Experience
-- STATUS: In Development
-
 ---
 
-# ⚡ 7) NEON DIVIDERS (subtle but powerful)
-
-Use between sections:
-
-<p align="center">━━━ ⚡ ━━━</p>
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
 </p>
 
-## ⚡ SYSTEM STATUS
 
-- 🧠 Building: Sifra (AI Medical System)
-- 🚀 Focus: AI / ML / LLMs
-- 🎯 Goal: Real-world impactful systems
-
----
 
 ## 🎮 ACTIVE PROJECT
 
@@ -96,12 +68,23 @@ Use between sections:
 ---
 
 
-Add below tech stack:
+## ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,mysql,tensorflow,firebase,git,github,flask,django" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">━━━ ⚡ ━━━</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
 </p>
-
 
 ## ⚡ SYSTEM MODE
 
