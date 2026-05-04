@@ -1,40 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Pawan%20Manghnani&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=BOOTING+SYSTEM...;AI+DEVELOPER;BUILDING+SIFRA;EXECUTE();NO+DISTRACTIONS" />
-</p>
-
----
-
-## 👋 SYSTEM INTRO
+## ⚡ SYSTEM CORE
 
 
 > USER: @TechnoAceX
 > ROLE: AI Developer
 > BUILDING: Sifra (AI Medical System)
 > FOCUS: AI / ML / LLMs
-> STATUS: AVAILABLE FOR COLLAB
-
-discord: techno_acex
-status: active
-response_time: fast
-
-## ⚡ SYSTEM STATUS ⚡
-
-
-> USER: Pawan Manghnani
-> ROLE: AI Developer
-> BUILDING: Sifra
-> STATUS: ONLINE
 > MODE: FOCUS FLOW
+> STATUS: ONLINE
 
 <p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=System+stable...;Focus+mode+active...;All+systems+operational..." />
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=System+stable...;Focus+mode+active...;Awaiting+execution..." />
 </p>
+
+<p align="center">
+  💬 discord: <b>techno_acex</b>
+</p>
+```
+
 
 ---
 
