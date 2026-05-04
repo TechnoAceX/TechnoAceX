@@ -7,12 +7,20 @@
 </p>
 
 ---
-## ⚡ SYSTEM STATUS
+## ⚡ SYSTEM STATUS ⚡
+
+
+> USER: Pawan Manghnani
+> ROLE: AI Developer
+> BUILDING: Sifra
+> STATUS: ONLINE
+> MODE: FOCUS FLOW
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=600&lines=%3E+USER:+Pawan+Manghnani;%3E+ROLE:+AI+Developer;%3E+BUILDING:+Sifra;%3E+STATUS:+ONLINE;%3E+MODE:+FOCUS+FLOW" />
-</p>
 
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=System+stable...;Focus+mode+active...;All+systems+operational..." />
+
+</p>
 
 ---
 
