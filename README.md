@@ -24,8 +24,6 @@
 
 ---
 
-# 🔥 3) HOLOGRAPHIC ACTIVITY GRAPH (dynamic)
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&bg_color=00000000&color=00F7FF&line=6A00FF&point=ffffff&hide_border=true" />
@@ -33,10 +31,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnoAceX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoAceX&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+
 
 
 
