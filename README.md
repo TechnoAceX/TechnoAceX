@@ -17,23 +17,16 @@
 > FOCUS     : AI / ML / LLMs
 > STATUS    : AVAILABLE FOR COLLAB
 
-connection:
-  discord: techno_acex
-  status: active
-  response: fast
+<p align="left">
 
----
+  💬 discord: <b>techno_acex</b><br>
 
-# 🔥 Why this is better
+  ⚡ status: active<br>
 
-- Terminal block = **identity**
-- YAML block = **system config feel**
-- Alignment = **clean + premium**
-- No clutter = **sharp**
+  🚀 response: fast
 
----
+</p>
 
-# ⚡ MORE AGGRESSIVE FUTURISTIC (if you want stronger vibe)
 
 
 ## ⚡ SYSTEM INTRO
