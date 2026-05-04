@@ -26,32 +26,6 @@
 
 
 
-## ⚡ SYSTEM INTRO
-
-
-+ USER      : @TechnoAceX
-! ROLE      : AI Developer
-# BUILDING  : Sifra (AI Medical System)
-> FOCUS     : AI / ML / LLMs
-- STATUS    : AVAILABLE FOR COLLAB
-
-
-## ⚡ SYSTEM STATUS ⚡
-
-
-> USER: Pawan Manghnani
-> ROLE: AI Developer
-> BUILDING: Sifra
-> STATUS: ONLINE
-> MODE: FOCUS FLOW
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=System+stable...;Focus+mode+active...;All+systems+operational..." />
-
-</p>
-
----
 
 
 <p align="center">
