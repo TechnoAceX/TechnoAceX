@@ -40,3 +40,16 @@
 <p align="center">
   <img src="https://github.com/TechnoAceX/TechnoAceX/blob/output/snake.gif" />
 </p>
+
+
+👉 This gives **terminal / hacker feel**
+
+---
+
+# 🧠 STEP 5 — ADD LIVE ACTIVITY GRAPH (ANIMATED FEEL)
+
+Add below tech stack:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
+</p>
