@@ -38,20 +38,12 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/TechnoAceX/TechnoAceX/blob/output/snake.gif" />
+  <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
 </p>
 
 
-👉 This gives **terminal / hacker feel**
-
 ---
 
-## 🎮 ACTIVE PROJECT
-
-
-+ Pixel Crush
-- Status: In Development
-! Type: Interactive Experience
 
 Add below tech stack:
 
@@ -59,7 +51,3 @@ Add below tech stack:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
-</p>
