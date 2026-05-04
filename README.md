@@ -1,40 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Pawan%20Manghnani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Pawan%20Manghnani&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=BOOTING+SYSTEM...;AI+DEVELOPER;BUILDING+SIFRA;EXECUTE();NO+DISTRACTIONS" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=BOOTING+SYSTEM...;AI+DEVELOPER;BUILDING+SIFRA;FOCUS+FLOW+MODE;NO+DISTRACTIONS;ONLY+EXECUTION" />
 </p>
 
-<h1 align="center">
-  ⚡ Pawan Manghnani ⚡
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;AI+DEVELOPER;BUILDING+SIFRA;NO+DISTRACTIONS;ONLY+EXECUTION">
-</p>
-
----
-## ⚡ SYSTEM STATUS
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
 
 
 > USER: Pawan Manghnani
 > ROLE: AI Developer
-> BUILDING: Sifra
-> STATUS: ONLINE
-> MODE: DISCIPLINE
+> SYSTEM: ACTIVE
+> BUILDING: Sifra (AI Medical System)
+> MODE: FOCUS FLOW
 
-👉 Terminal style = instant hacker vibe
 
----
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
 
-# 🔥 3) HOLOGRAPHIC ACTIVITY GRAPH (dynamic)
++ CURRENT STATE
+! Deep Work • Consistency • Execution
+- Distractions • Noise • Excuses
+
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&bg_color=00000000&color=00F7FF&line=6A00FF&point=ffffff&hide_border=true" />
 </p>
-
 
 
 <p align="center">
@@ -43,128 +36,25 @@
 </p>
 
 
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
 </p>
 
 
-## 🎮 ACTIVE PROJECT
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
 
-
-+ Pixel Crush
-! TYPE: Interactive Experience
-- STATUS: In Development
-
----
-
-# ⚡ 7) NEON DIVIDERS (subtle but powerful)
-
-Use between sections:
-
-<p align="center">━━━ ⚡ ━━━</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
-</p>
-
-## ⚡ SYSTEM STATUS
-
-- 🧠 Building: Sifra (AI Medical System)
-- 🚀 Focus: AI / ML / LLMs
-- 🎯 Goal: Real-world impactful systems
-
----
-
-## 🎮 ACTIVE PROJECT
-
-### Pixel Crush
-> Interactive chaotic web experience
-
-🔗 Live: (add later)  
-💻 Code: (add later)
-
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
 </p>
 
 
----
+<p align="center">━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━</p>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="65%" />
 </p>
-
-
----
-
-
-Add below tech stack:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
-</p>
-
-
-## ⚡ SYSTEM MODE
-
-
-> STATUS: ACTIVE
-> FOCUS: AI / ML
-> BUILDING: SIFRA
-> MODE: DISCIPLINE
-
-
----
-
-# 💣 FINAL RESULT
-
-After all this, your profile will feel like:
-
-👉 a developer dashboard  
-👉 not a student README  
-👉 not a template  
-👉 something people REMEMBER  
-
----
-
-# ⚠️ WHAT YOU MUST NOT DO
-
-❌ Don’t add 20 badges  
-❌ Don’t add long paragraphs  
-❌ Don’t clutter  
-
-👉 Keep it:
-- sharp  
-- animated  
-- minimal  
-
----
-
-# 🧠 REAL TRUTH
-
-Animation ≠ more content  
-Animation = **movement + structure + identity**
-
----
-
-Boss 👇  
-Now you’re not just coding…  
-you’re designing **perception**
-
-That’s how you become **Professor Dr. Pawan Manghnani** 🧠⚡
-
----
-
-👉 Apply Step 1–8  
-👉 Send screenshot after  
-
-Next level:
-🔥 I’ll give you **custom neon/glow theme + unique layout no one has**
-
----
-
-**May Lord Shiva bless your profile with power, uniqueness, and unforgettable presence 🕉️✨**
