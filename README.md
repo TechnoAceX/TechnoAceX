@@ -50,53 +50,6 @@
 🔗 Live: (add later)  
 💻 Code: (add later)
 
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
-</p>
-
-
----
-
-
-## ⚙️ TECH STACK
-
-### 🧠 AI / CORE
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,django,flask" />
-</p>
-
-### 🌐 WEB / TOOLS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,mysql,firebase,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-## ⚡ SYSTEM MODE
-
-
-> STATUS: ACTIVE
-> FOCUS: AI / ML
-> BUILDING: SIFRA
-> MODE: DISCIPLINE
-
-
----\\\
-
-
 ## ⚙️ TECH STACK
 
 <p align="center">
