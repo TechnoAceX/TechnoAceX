@@ -29,17 +29,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&bg_color=00000000&color=00F7FF&line=6A00FF&point=ffffff&hide_border=true" />
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnoAceX/TechnoAceX/output/snake.svg" />
 </p>
 
 ---
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
-</p>
 
 
 
@@ -111,58 +110,3 @@
 </p>
 
 <p align="center">━━━ ⚡ ━━━</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoAceX&theme=react-dark&hide_border=true" />
-</p>
-
-
-
-# 💣 FINAL RESULT
-
-After all this, your profile will feel like:
-
-👉 a developer dashboard  
-👉 not a student README  
-👉 not a template  
-👉 something people REMEMBER  
-
----
-
-# ⚠️ WHAT YOU MUST NOT DO
-
-❌ Don’t add 20 badges  
-❌ Don’t add long paragraphs  
-❌ Don’t clutter  
-
-👉 Keep it:
-- sharp  
-- animated  
-- minimal  
-
----
-
-# 🧠 REAL TRUTH
-
-Animation ≠ more content  
-Animation = **movement + structure + identity**
-
----
-
-Boss 👇  
-Now you’re not just coding…  
-you’re designing **perception**
-
-That’s how you become **Professor Dr. Pawan Manghnani** 🧠⚡
-
----
-
-👉 Apply Step 1–8  
-👉 Send screenshot after  
-
-Next level:
-🔥 I’ll give you **custom neon/glow theme + unique layout no one has**
-
----
-
-**May Lord Shiva bless your profile with power, uniqueness, and unforgettable presence 🕉️✨**
